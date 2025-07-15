@@ -5,9 +5,9 @@ paginate: true
 header: "The Plan: 9-5 to Business Owner"
 footer: "richardcollins128@gmail.com | the-plan"
 ---
-
+<!-- _class: lead -->
 # The Plan
-A plan to transition from a 9-5 salaryman to a business owner in 6(-ish) years.
+Transitioning from 9-5 salaryman to a business owner in 6(-ish) years.
 
 ---
 # Agenda
@@ -19,6 +19,18 @@ A plan to transition from a 9-5 salaryman to a business owner in 6(-ish) years.
 - Making the leap
 - Surviving & thriving
 - Q&A
+
+---
+<style scoped>
+img[alt~="top-right"] {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+</style>
+# Activity Shift
+![top-right](../images/activity_shift_no_bg_1x.png)
+
 
 ---
 # Why Leave the 9-5?
