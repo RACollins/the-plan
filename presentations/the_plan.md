@@ -7,7 +7,12 @@ footer: "richardcollins128@gmail.com | the-plan"
 ---
 <!-- _class: lead -->
 # The Plan
-Transitioning from 9-5 salaryman to a business owner in 6(-ish) years.
+Transitioning from 9-5 salaryman to a business owner
+
+---
+# Quote
+*I don't have a quote yet, but I'm working on it!*
+Richard Collins
 
 ---
 # Agenda
