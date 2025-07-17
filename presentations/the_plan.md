@@ -10,31 +10,27 @@ footer: "richardcollins128@gmail.com | the-plan"
 Transitioning from 9-5 salaryman to a business owner
 
 ---
-# Quote
-*I don't have a quote yet, but I'm working on it!*
-Richard Collins
+# Knowledge is Power
+> Ipsa scientia potestas est.
+— <cite>Francis Bacon</cite>
+
+> sed actus lucem fert.
+— <cite>Richard Collins</cite>
 
 ---
 # Agenda
-- Why leave the 9-5?
-- Mindset shift
-- Building skills & network
-- Side hustles & validation
-- Financial runway
-- Making the leap
-- Surviving & thriving
-- Q&A
+- Update later...
 
 ---
 <style scoped>
-img[alt~="top-right"] {
+img[alt~="centre"] {
     position: absolute;
-    top: 30px;
-    right: 30px;
+    top: 200px;
+    right: 380px;
 }
 </style>
-# Activity Shift
-![top-right](../images/activity_shift_no_bg_1x.png)
+# Outbound
+![centre](../images/outreach_matrix.png)
 
 
 ---
